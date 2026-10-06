@@ -8,4 +8,4 @@ def test_zero_rate():
 
 def test_decimal_values():
     assert simple_interest(5000,4.5,2) == 450
-    assert simple_interest(5000,4.5,2) == 450
+    
